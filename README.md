@@ -14,7 +14,7 @@ For more info on the developer or my other projects you can check out my [websit
 
 - UX
     - Project Goals
-    - Target Audience Goals
+    - User Goals
     - Site Owner Goals
     - User Stories
     - User Requirements and Expectations
@@ -27,7 +27,8 @@ For more info on the developer or my other projects you can check out my [websit
     - Images
     - Backgrounds
 
-- Wireframes
+- Planning
+    - Wireframes
     - Site Map
     - Flowcharts
     - Databse Schema
@@ -36,4 +37,48 @@ For more info on the developer or my other projects you can check out my [websit
     - Implemented
     - In Development
     - To be Developed
-    
+
+
+## User Experience
+
+### Project Goals
+
+### User Goals
+
+### Site Owner Goals
+
+### User Stories
+
+### User Requirements and Expectations
+
+## Design
+
+### Fonts
+
+### Icons
+
+### Colours
+
+### Styling
+
+### Images
+
+### Backgrounds
+
+## Planning
+
+### Wireframes
+
+### Site Map
+
+### Flowcharts
+
+### Databse Schema
+
+## Features
+
+### Implemented Features
+
+### Features In Development
+
+### Features to be Developed
