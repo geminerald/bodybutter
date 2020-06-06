@@ -43,7 +43,18 @@ For more info on the developer or my other projects you can check out my [websit
 
 ### Project Goals
 
+The goal of this project is to allow consumers to buy handmade bodybutter products. Users can set up an account, add various items to a basket, place orders, review and update their information, track their order status and review or re-order previous orders.
+
 ### User Goals
+
+* Get information about various body butter products.
+* Order products.
+* Create an account.
+* Place Orders. 
+* Track and update their orders.
+* Access website from any device.
+* Visually appealling and intuitive website.
+* 
 
 ### Site Owner Goals
 
