@@ -1,8 +1,11 @@
-# Butter Me Up
+# Atarase
 
 [![Build Status](https://travis-ci.org/geminerald/bodybutter.svg?branch=master)](https://travis-ci.org/geminerald/bodybutter)
 
-<p>Welcome to Butter Me Up - an ecommerce website for the sale of handmade body butter products online.
+<p>Welcome to Atarase - an ecommerce website for the sale of handmade body butter products online.
+
+Atarase is the Yoruba word for Skincare and the website is designed to represent diversity and positivity.
+
 This project is aimed at people who are interested in purchasing handmade skincare products and wish to have them tailored to their needs.
 
 This project was submitted as the final milestone project for the Code Institute Full Stack web developer course.
@@ -73,13 +76,26 @@ As both supply and demand have grown the nature of what an online shop needs to 
 Any online e-commerce platform needs to be easy to use an navigate or users will find another one that is easier. 
 Similarly it will need to be secure - useing safe authentication and payment methods are now necessary for an e-commerce platform.
 
+### Requirements
+
+### Expectations
+
 ## Design
 
 ### Fonts
 
+Key qualities needed for the font of an online web shop are simplicity, in order to not distract or slow the user down, and clarity - so that they can quickly absorb anything they see.
+With these criteria in mind the Oswald font was chosen.
+
 ### Icons
 
 ### Colours
+
+"Macaroni and Cheese" #FDB793
+"Viridian Green" #0FA3B1
+"Uranian Blue" #B5E2FA
+"Baby Powder" #F9F7F3
+"Medium Champagne" #EDDEA4
 
 ### Styling
 
