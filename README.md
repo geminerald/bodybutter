@@ -10,3 +10,30 @@ This project was submitted as the final milestone project for the Code Institute
 For more info on the developer or my other projects you can check out my [website](https://geminerald.github.io/geminerald/)
 </p>
 
+## Contents:
+
+- UX
+    - Project Goals
+    - Target Audience Goals
+    - Site Owner Goals
+    - User Stories
+    - User Requirements and Expectations
+
+- Design
+    - Fonts
+    - Icons
+    - Colours
+    - Styling
+    - Images
+    - Backgrounds
+
+- Wireframes
+    - Site Map
+    - Flowcharts
+    - Databse Schema
+
+- Features
+    - Implemented
+    - In Development
+    - To be Developed
+    
