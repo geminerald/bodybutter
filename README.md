@@ -130,6 +130,7 @@ The individual colours are as outlined below:
 ```
 ### Styling
 
+#706563
 
 ```scss
 $primary-color: #FDB793; // primary
@@ -137,10 +138,10 @@ $secondary-color: #0FA3B1; // secondary
 $tertiary-color: #EDDEA4; // tertiary 
 $white-color: #F9F7F3; // white
 $off-white-color: #f2f2f2; // off-white
-$black-color: #000; // black
-$required-color: #ff0000; // required-red
-$error-color: #cc0000; // error-red
-$success-color: #25bd2c; // success-green
+$black-color: #0f0a0a; // black
+$required-color: #b8336a; // required-red
+$error-color: #461220; // error-red
+$success-color: #1b998b; // success-green
 ```
 
 Layout Colours:
