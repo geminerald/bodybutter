@@ -185,6 +185,10 @@ The images for this website were taken from [Pexels](https://www.pexels.com/) an
 
 ### Wireframes
 
+The wireframes for this project were developed useing Balsamiq and exported as PDF files for ease of viewing.
+
+<p>The wireframes for this project can be seen <a href="https://github.com/geminerald/bodybutter/tree/master/wireframes">here</a></p>
+
 ### Site Map
 
 ### Flowcharts
