@@ -95,7 +95,7 @@ An image was uploaded which encapsulated the tone of the website and a colour sc
 
 The individual colours are as outlined below:
 
-- ![#fdb793](https://placehold.it/15/#fdb793/000000?text=+) "Macaroni and Cheese" #FDB793
+- ![#fdb793](https://placehold.it/15/#fdb793/000000?text=+) "Macaroni and Cheese" #fdb793
 
 ```
 "Macaroni and Cheese" #FDB793
