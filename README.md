@@ -202,3 +202,16 @@ The wireframes for this project were developed useing Balsamiq and exported as P
 ### Features In Development
 
 ### Features to be Developed
+
+* Home, About, FAQ pages
+* Account and authentication system.
+* Account detail updates.
+* Product page with all products.
+* Product Filters
+* Contact Us Page and form
+* Cart page and system
+* Ability to update cart
+* Checkout page with stripe itegration
+* Create your own bespoke bodybutter.
+* Automated email system for order lifecycle.
+* Loyalty system.
