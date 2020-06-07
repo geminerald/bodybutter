@@ -14,30 +14,30 @@ For more info on the developer or my other projects you can check out my [websit
 ## Contents:
 
 - [UX](#user-experience)
-    - Project Goals
-    - User Goals
-    - Site Owner Goals
-    - User Stories
-    - User Requirements and Expectations
+    - [Project Goals](#project-goals)
+    - [User Goals](#user-goals)
+    - [Site Owner Goals](#site-owner-goals)
+    - [User Stories](#user-stories)
+    - [User Requirements and Expectations](#user-requirements-and-expectations)
 
-- Design
-    - Fonts
-    - Icons
-    - Colours
-    - Styling
-    - Images
-    - Backgrounds
+- [Design](#design)
+    - [Fonts](#fonts)
+    - [Icons](#icons)
+    - [Colours](#colours)
+    - [Styling](#styling)
+    - [Images](#images)
+    - [Backgrounds](#backgrounds)
 
-- Planning
-    - Wireframes
-    - Site Map
-    - Flowcharts
-    - Databse Schema
+- [Planning](#planning)
+    - [Wireframes](#wireframes)
+    - [Site Map](#site-map)
+    - [Flowcharts](#flowcharts)
+    - [Databse Schema](#database-schema)
 
-- Features
-    - Implemented
-    - In Development
-    - To be Developed
+- [Features](#features)
+    - [Implemented](#implemented-features)
+    - [In Development](#features-in-development)
+    - [To be Developed](#features-to-be-developed)
 
 
 ## User Experience
