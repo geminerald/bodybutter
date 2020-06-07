@@ -13,7 +13,7 @@ For more info on the developer or my other projects you can check out my [websit
 
 ## Contents:
 
-- UX
+- [UX](#user-experience)
     - Project Goals
     - User Goals
     - Site Owner Goals
