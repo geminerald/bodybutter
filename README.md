@@ -107,6 +107,8 @@ With these criteria in mind the Oswald font was chosen.
 
 ### Icons
 
+The icons for this project came from [Font Awesome](https://fontawesome.com/6?next=%2F) as they are universally highly regarded as having a great selection of icons for development.
+
 ### Colours
 
 The colour palate was taken from [coolers](https://coolors.co/)
@@ -121,13 +123,6 @@ The individual colours are as outlined below:
 - ![#f9f7f3](https://placehold.it/15/f9f7f3/000000?text=+) **"Baby Powder"** #F9F7F3 : This colour was chosed as the "white" colour for the website - as a slightly gray off-white colour it avoids the harsher contrast which the pure white would create and helps to keep the contrast high but not too high.
 - ![#eddea4](https://placehold.it/15/eddea4/000000?text=+) **"Medium Champagne"** #EDDEA4 : 
 
-```
-"Macaroni and Cheese" #FDB793
-"Viridian Green" #0FA3B1
-"Uranian Blue" #B5E2FA
-"Baby Powder" #F9F7F3
-"Medium Champagne" #EDDEA4
-```
 ### Styling
 
 #706563
