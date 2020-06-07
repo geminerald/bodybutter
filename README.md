@@ -80,6 +80,16 @@ Similarly it will need to be secure - useing safe authentication and payment met
 
 ### Requirements
 
+* Easily act with the website at all stages.
+* All elements are visually appealling without being distraccting.
+* Learn about how the site works and the various products offered at a glance or skim.
+* Add items to a cart and update it as needed.
+* Securely place orders to purchase items.
+* View previous and current orders.
+* FAQ section to answer frequently asked questions.
+* Contat the business as required.
+
+
 ### Expectations
 
 ## Design
