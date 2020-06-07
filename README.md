@@ -172,7 +172,7 @@ $default-border-radius: 6px;
 
 The images for this website were taken from [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/)
 
-
+Image editing was done via [Affinity](https://affinity.serif.com/en-us/)
 
 ### Backgrounds
 
@@ -188,7 +188,7 @@ The wireframes for this project were developed useing Balsamiq and exported as P
 
 ### Flowcharts
 
-### Databse Schema
+### Database Schema
 
 ## Features
 
