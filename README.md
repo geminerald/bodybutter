@@ -122,10 +122,15 @@ The individual colours are as outlined below:
 - ![#b5e2fa](https://placehold.it/15/b5e2fa/000000?text=+) **"Uranian Blue"** #B5E2FA : This colour was chosen for the "Information" alerts - as a soft blue it will fulfil the standards and expectations of a blue message notification but it is softer than most blues used in this context - again reminiscent of a trip to the spa.
 - ![#f9f7f3](https://placehold.it/15/f9f7f3/000000?text=+) **"Baby Powder"** #F9F7F3 : This colour was chosed as the "white" colour for the website - as a slightly gray off-white colour it avoids the harsher contrast which the pure white would create and helps to keep the contrast high but not too high.
 - ![#eddea4](https://placehold.it/15/eddea4/000000?text=+) **"Medium Champagne"** #EDDEA4 : 
+- ![#f2f2f2](https://placehold.it/15/f2f2f2/000000?text=+) **"Cultured"** #f2f2f2 : 
+- ![#0f0a0a](https://placehold.it/15/0f0a0a/000000?text=+) **"Rich Black Fogra"** #0f0a0a : 
+- ![#b8336a](https://placehold.it/15/b8336a/000000?text=+) **"Maroon X11"** #EDDEA4 : 
+- ![#1b998b](https://placehold.it/15/1b998b/000000?text=+) **"Illuminating Emerald"** #EDDEA4 : 
+
+
+
 
 ### Styling
-
-#706563
 
 ```scss
 $primary-color: #FDB793; // primary
@@ -142,7 +147,7 @@ $success-color: #1b998b; // success-green
 Layout Colours:
 
 ```scss
-$text-on-white-color: #017735;
+$text-on-white-color: #706563;
 $main-nav-color: $secondary-color;
 $main-footer-color: $secondary-color;
 $main-background-color: $white-color;
