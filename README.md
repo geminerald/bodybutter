@@ -130,6 +130,48 @@ The individual colours are as outlined below:
 ```
 ### Styling
 
+
+```scss
+$primary-color: #FDB793; // primary
+$secondary-color: #0FA3B1; // secondary
+$tertiary-color: #EDDEA4; // tertiary 
+$white-color: #F9F7F3; // white
+$off-white-color: #f2f2f2; // off-white
+$black-color: #000; // black
+$required-color: #ff0000; // required-red
+$error-color: #cc0000; // error-red
+$success-color: #25bd2c; // success-green
+```
+
+Layout Colours:
+
+```scss
+$text-on-white-color: #017735;
+$main-nav-color: $secondary-color;
+$main-footer-color: $secondary-color;
+$main-background-color: $white-color;
+$main-panel-color: darken($off-white-color, 5%);
+```
+
+Shadows:
+
+```scss
+$panel-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+$text-shadow: 0.5px 0.5px 1px rgba(0, 0, 0, 0.3);
+```
+
+Transitions: 
+```scss
+$fast-transition: 0.25s all ease-in-out;
+$slow-transition: 0.5s all ease-in-out;
+```
+
+Borders: 
+
+```scss
+$default-border-radius: 6px;
+```
+
 ### Images
 
 The images for this website were taken from [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/)
