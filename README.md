@@ -88,6 +88,15 @@ With these criteria in mind the Oswald font was chosen.
 ### Icons
 
 ### Colours
+
+The colour palate was taken from [coolers](https://coolors.co/)
+
+An image was uploaded which encapsulated the tone of the website and a colour scheme generated from this.
+
+The individual colours are as outlined below:
+
+- ![#FDB793](https://placehold.it/15/#FDB793/000000?text=+) "Macaroni and Cheese" #FDB793
+
 ```
 "Macaroni and Cheese" #FDB793
 "Viridian Green" #0FA3B1
