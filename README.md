@@ -46,6 +46,8 @@ For more info on the developer or my other projects you can check out my [websit
 
 The goal of this project is to allow consumers to buy handmade bodybutter products. Users can set up an account, add various items to a basket, place orders, review and update their information, track their order status and review or re-order previous orders.
 
+Users will eventually be able to customise the products and have bespoke body butter products manufactured to their specifications.
+
 ### User Goals
 
 * Get information about various body butter products.
@@ -65,7 +67,9 @@ The goal of this project is to allow consumers to buy handmade bodybutter produc
 
 ### User Stories
 
-* 
+* "Any online platform needs to work just the same on my phone as on my laptop - if you have to use two different sites to do the same thing on two devices that's a bad user experience" - Mark Smyth
+* "I would never buy anything from a site where you don't know who is running it or at least how to contact them" - Alan Yeates
+* "It's a basic rule of any business: Make it easy for your customer to give you money" - Mary Conneely
 
 ### User Requirements and Expectations
 
