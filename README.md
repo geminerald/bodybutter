@@ -98,6 +98,8 @@ Similarly it will need to be secure - useing safe authentication and payment met
 
 ## Design
 
+<p> The overall design ethos of this website was to be in keeping with what a user would expect with a skincare brand. Colours and elements are soft, the colours particularly are chosen to evoke the feeling or memory of a trip to a spa or similar. </p>
+
 ### Fonts
 
 Key qualities needed for the font of an online web shop are simplicity, in order to not distract or slow the user down, and clarity - so that they can quickly absorb anything they see.
