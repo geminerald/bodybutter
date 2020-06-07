@@ -115,11 +115,11 @@ An image was uploaded which encapsulated the tone of the website and a colour sc
 
 The individual colours are as outlined below:
 
-- ![#fdb793](https://placehold.it/15/fdb793/000000?text=+) "Macaroni and Cheese" #fdb793 : This is used as a backgrould colour as it is a soft colour which goes well with most skin tones and doesn't pull focus.
+- ![#fdb793](https://placehold.it/15/fdb793/000000?text=+) *"Macaroni and Cheese"* #FDB793 : This is used as a backgrould colour as it is a soft colour which goes well with most skin tones and doesn't pull focus.
 - ![#0fa3b1](https://placehold.it/15/0fa3b1/000000?text=+) "Viridian Green" #0FA3B1 : This was chosen as a good contrast to the base colour - it shows up well against the softer peach colour and is reminiscent of colours seen in health spas.
-- ![#b5e2fa](https://placehold.it/15/b5e2fa/000000?text=+) "Uranian Blue" #B5E2FA
-- ![#f9f7f3](https://placehold.it/15/f9f7f3/000000?text=+) "Baby Powder" #F9F7F3
-- ![#eddea4](https://placehold.it/15/eddea4/000000?text=+) "Medium Champagne" #EDDEA4
+- ![#b5e2fa](https://placehold.it/15/b5e2fa/000000?text=+) "Uranian Blue" #B5E2FA : This colour was chosen for the "Information" alerts - as a soft blue it will fulfil the standards and expectations of a blue message notification but it is softer than most blues used in this context - again reminiscent of a trip to the spa.
+- ![#f9f7f3](https://placehold.it/15/f9f7f3/000000?text=+) "Baby Powder" #F9F7F3 : This colour was chosed as the "white" colour for the website - as a slightly gray off-white colour it avoids the harsher contrast which the pure white would create and helps to keep the contrast high but not too high.
+- ![#eddea4](https://placehold.it/15/eddea4/000000?text=+) "Medium Champagne" #EDDEA4 : 
 
 ```
 "Macaroni and Cheese" #FDB793
