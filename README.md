@@ -1,10 +1,8 @@
-# Atarase
+# Bodybutter
 
 [![Build Status](https://travis-ci.org/geminerald/bodybutter.svg?branch=master)](https://travis-ci.org/geminerald/bodybutter)
 
-<p>Welcome to Atarase - an ecommerce website for the sale of handmade body butter products online.
-
-Atarase is the Yoruba word for Skincare and the website is designed to represent diversity and positivity.
+<p>Welcome to Bodybutter - an ecommerce website for the sale of handmade body butter products online.
 
 This project is aimed at people who are interested in purchasing handmade skincare products and wish to have them tailored to their needs.
 
@@ -90,16 +88,20 @@ With these criteria in mind the Oswald font was chosen.
 ### Icons
 
 ### Colours
-
+```
 "Macaroni and Cheese" #FDB793
 "Viridian Green" #0FA3B1
 "Uranian Blue" #B5E2FA
 "Baby Powder" #F9F7F3
 "Medium Champagne" #EDDEA4
-
+```
 ### Styling
 
 ### Images
+
+The images for this website were taken from [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/)
+
+
 
 ### Backgrounds
 
