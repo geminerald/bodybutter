@@ -89,8 +89,12 @@ Similarly it will need to be secure - useing safe authentication and payment met
 * FAQ section to answer frequently asked questions.
 * Contat the business as required.
 
-
 ### Expectations
+
+* Website will work quickly, efficiently and intuitively across all devices.
+* User information is stored securely.
+* User payment information is not stored in the store database.
+* All navigation is simple, intuitive and necessary - no clutter. 
 
 ## Design
 
