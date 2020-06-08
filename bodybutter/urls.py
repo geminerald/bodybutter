@@ -17,8 +17,10 @@ from django.contrib import admin
 from django.conf.urls import url, include
 from django.urls import path
 from accounts import urls as account_urls
+from home import urls as home_urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    url(r'^', include(home_urls)),
     url(r'^accounts/', include(account_urls)),
 ]
