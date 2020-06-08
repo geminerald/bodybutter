@@ -125,4 +125,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-MESSAGE_STORAGE = 'django,contrib.messages.storage.session.SessionStorage'
+MESSAGE_STORAGE = 'django.contrib.messages.storage.session.SessionStorage'
