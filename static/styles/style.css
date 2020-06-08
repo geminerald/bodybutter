@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
+/* Colours */
+
+:root {
+    --primary-colour: #FDB793; 
+    --secondary-colour: #0FA3B1; 
+    --tertiary-colour: #EDDEA4; 
+    --white-colour: #F9F7F3; 
+    --off-white-colour:  #f2f2f2; 
+    --black-colour: #0f0a0a; 
+    --required-colour: #b8336a; 
+    --error-colour: #461220;
+    --success-colour: #1b998b;
+}
 
 
 /* Universals */
