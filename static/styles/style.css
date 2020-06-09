@@ -135,7 +135,7 @@ body{
 }
 
     .nav-links{
-        position: absolute;
+        position: fixed;
         right:0px;
         top: 8vh;
         height:50vh;
