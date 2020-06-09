@@ -65,6 +65,12 @@ nav{
     text-decoration: none;
 }
 
+.b-letter{
+    max-height: 35px;
+    margin:0;
+    padding:0;
+}
+
 
 
 .nav-links{
@@ -110,6 +116,11 @@ nav{
   transition: background-color 200ms linear;
 }
 
+
+footer{
+    position: fixed;
+    bottom: 0;
+}
 
 /* Media Queries */
 
