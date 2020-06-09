@@ -261,3 +261,9 @@ body{
 .help-block{
     color: var(--secondary-colour);
 }
+
+.messages{
+    text-align: center;
+    background-color: var(--success-colour);
+    color: var(--white-colour);
+}
