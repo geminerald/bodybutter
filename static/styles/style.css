@@ -241,3 +241,23 @@ body{
     background-image: url('../images/about.jpg');
     background-size: contain;
 }
+
+.accountform{
+    margin-top: 10vh;
+    color: var(--black-colour);
+    font-size: 1.5rem;
+}
+
+.submit-button{
+    background: var(--secondary-colour);
+    color: var(--off-white-colour);
+    line-height: 3rem;
+    font-size: 2rem;
+    padding:1rem;
+    margin:5px;
+    border-radius: 1rem;
+}
+
+.help-block{
+    color: var(--secondary-colour);
+}
