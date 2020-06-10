@@ -1,0 +1,33 @@
+{% extends base.html %} {% block content %}
+
+<div class="row row-flex">
+  {% for product in products %}
+
+  <h3>{{product.name}}</h3>
+  <p>{{product.description}}</p>
+  <div class="image" style="background-image: url('{{MEDIA_URl}}{{product.image}}')"
+  ></div>
+  <p>{{product.price}}</p>
+
+  <form method="POST" action="{% url 'add_to_cart' product.id %}">
+    {% csrf_token %}
+    <div class="input-group">
+      <input
+        name="quantity"
+        type="number"
+        min="1"
+        max="9"
+        class="form-control"
+        default="1"
+        placeholder="Quantity"
+      />
+      <span class="input-group-btn">
+        <button class="btn btn-success" type="submit">Add</button>
+      </span>
+    </div>
+  </form>
+
+  {% endfor %}
+</div>
+
+{% endblock %}
